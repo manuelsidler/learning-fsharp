@@ -331,3 +331,5 @@ ASALocalRun/
 .vscode/
 
 **/.DS_Store
+
+.ionide/

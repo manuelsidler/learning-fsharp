@@ -4,4 +4,4 @@ let tryLoadCustomer customerId =
     |> Option.map(fun x -> sprintf "Customer %i" x)
 
 let customerIds = [ 0 .. 10 ]
-customerIds |> List.choose tryLoadCustomer
+customerIds |> List.choose tryLoadCustomer // choose is map and filter in one
