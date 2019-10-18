@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+nuget FSharp.Data
+nuget FSharp.Data.SqlClient
+nuget Google.DataTable.Net.Wrapper
+nuget XPlot.GoogleCharts

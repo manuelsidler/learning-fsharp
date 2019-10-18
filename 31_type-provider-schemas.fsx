@@ -1,6 +1,6 @@
-#r @"lib\FSharp.Data.dll"
-#r @"lib\XPlot.GoogleCharts.dll"
-#r @"lib\Google.DataTable.Net.Wrapper.dll"
+#r @"packages\FSharp.Data\lib\netstandard2.0\FSharp.Data.dll"
+#r @"packages\XPlot.GoogleCharts\lib\netstandard2.0\XPlot.GoogleCharts.dll"
+#r @"packages\Google.DataTable.Net.Wrapper\lib\netstandard2.0\Google.DataTable.Net.Wrapper.dll"
 
 open FSharp.Data
 open XPlot.GoogleCharts
